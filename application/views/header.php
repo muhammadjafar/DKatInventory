@@ -90,21 +90,7 @@
                     <a href="<?php echo site_url('analisis');?>" class="nav-link <?php echo isset($_SESSION['menu'])=='analisis'?'active':'';?>"><i class="fe fe-calendar"></i> Analisis</a>
                   </li>
                   <li class="nav-item dropdown">
-                    <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-file"></i> Stok</a>
-                    <div class="dropdown-menu dropdown-menu-arrow">
-                      <a href="./profile.html" class="dropdown-item ">Profile</a>
-                      <a href="./login.html" class="dropdown-item ">Login</a>
-                      <a href="./register.html" class="dropdown-item ">Register</a>
-                      <a href="./forgot-password.html" class="dropdown-item ">Forgot password</a>
-                      <a href="./400.html" class="dropdown-item ">400 error</a>
-                      <a href="./401.html" class="dropdown-item ">401 error</a>
-                      <a href="./403.html" class="dropdown-item ">403 error</a>
-                      <a href="./404.html" class="dropdown-item ">404 error</a>
-                      <a href="./500.html" class="dropdown-item ">500 error</a>
-                      <a href="./503.html" class="dropdown-item ">503 error</a>
-                      <a href="./email.html" class="dropdown-item ">Email</a>
-                      <a href="./empty.html" class="dropdown-item ">Empty page</a>
-                      <a href="./rtl.html" class="dropdown-item ">RTL mode</a>
+                    <a href="<?php echo site_url('Site/notif_stok')?>" class="nav-link"><i class="fe fe-calendar"></i> Stok</a>
                     </div>
                   </li>
                 </ul>

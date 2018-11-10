@@ -9,9 +9,9 @@ class Site extends CI_Controller {
 		$this->load->library('session');
 		$this->load->model('M_inventory');
 		$this->load->helper('url');
-		if (isset($_SESSION['us_sess']) == 0) {
+		/*if (isset($_SESSION['us_sess']) == 0) {
 			redirect('login');
-		}
+		}*/
 		$_SESSION['menu'] = 'home';
 	}
 
@@ -28,5 +28,16 @@ class Site extends CI_Controller {
 		$this->load->view('barang');
 		$this->load->view('footer');
 	}
-	
+	public function notif_stok()
+	{
+		$this->load->view('header');
+		$this->load->view('notif_stok');
+		$this->load->view('footer');
+	}
+	public function detail_permintaan()
+	{
+		$this->load->view('header');
+		$this->load->view('detail_permintaan');
+		$this->load->view('footer');
+	}
 }
