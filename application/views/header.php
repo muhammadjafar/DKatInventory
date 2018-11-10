@@ -15,7 +15,7 @@
     <link rel="icon" href="<?php echo base_url(); ?>/assets/favicon.ico" type="image/x-icon"/>
     <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>/assets/favicon.ico" />
     <title><?php echo isset($page_title)?$page_title:'D Kat Inventory';?></title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="<?php echo base_url('/assets/vendors/fontawesome-5.1.1/css/all.css');?>" rel="stylesheet" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
     <script src="<?php echo base_url(); ?>/assets/js/require.min.js"></script>
     <script>
