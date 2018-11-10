@@ -13,7 +13,13 @@ class Analisis extends CI_Controller {
 
 	public function index(){
 		$data['page_title'] = 'Analisa';
-		$this->load->view('header');
+		$barang = $this->crud->getData('barang','','','',80);
+		$brg = array();
+		foreach ($barang->result() as $br) {
+			$brg[] = $br->br_nama;
+		}
+		$data['barang'] = $brg;
+		$this->load->view('header', $data);
 		$this->load->view('apriori');
 		$this->load->view('footer');
 	}
