@@ -17,18 +17,21 @@
     <title><?php echo isset($page_title)?$page_title:'D Kat Inventory';?></title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300i,400,400i,500,500i,600,600i,700,700i&amp;subset=latin-ext">
-    <script src="<?php echo base_url(); ?>/assets/js/require.min.js"></script>
+    
+    <script src="<?php echo site_url(); ?>/assets/js/require.min.js"></script>
     <script>
       requirejs.config({
-          baseUrl: '.'
+          baseUrl: '<?php echo site_url(); ?>'
       });
     </script>
     <!-- Dashboard Core -->
-    <link href="<?php echo base_url(); ?>/assets/css/dashboard.css" rel="stylesheet" />
-    <script src="<?php echo base_url(); ?>/assets/js/dashboard.js"></script>
+    <link href="<?php echo site_url(); ?>/assets/css/dashboard.css" rel="stylesheet" />
+    <script src="<?php echo site_url(); ?>/assets/js/dashboard.js"></script>
+    
     <!-- c3.js Charts Plugin -->
-    <link href="<?php echo base_url(); ?>/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
-    <script src="<?php echo base_url(); ?>/assets/plugins/charts-c3/plugin.js"></script>
+    <link href="<?php echo site_url(); ?>/assets/plugins/charts-c3/plugin.css" rel="stylesheet" />
+    <script src="<?php echo site_url(); ?>/assets/plugins/charts-c3/plugin.js"></script>
+    <script src="<?php echo site_url(); ?>/assets/plugins/input-mask/plugin.js"></script>
   </head>
   <body class="">
     <div class="page">
@@ -37,21 +40,21 @@
           <div class="container">
             <?= $this->session->flashdata('pesan')?> 
             <div class="d-flex">
-              <a class="header-brand" href="./index.html">
+              <a class="header-brand" href="<?php echo base_url(); ?>">
                 <!-- <img src="./demo/brand/tabler.svg" class="header-brand-img" alt="tabler logo"> -->
-                D Kat Kategori
+                D Kat Inventory
               </a>
               <div class="d-flex order-lg-2 ml-auto">
                 <div class="dropdown">
                   <a href="#" class="nav-link pr-0 leading-none" data-toggle="dropdown">
-                    <span class="avatar" style="background-image: url(./demo/faces/female/25.jpg)"></span>
+                    <span class="avatar" style="background-image: url(<?php echo site_url() ?>/demo/faces/female/25.jpg)"></span>
                     <span class="ml-2 d-none d-lg-block">
-                      <span class="text-default">Jane Pearson</span>
+                      <span class="text-default"><?php if (isset($_SESSION['us_sess']) == 1) { echo $_SESSION['nm_sess']; } ?></span>
                       <small class="text-muted d-block mt-1">Administrator</small>
                     </span>
                   </a>
                   <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
-                    <a class="dropdown-item" href="#">
+                    <a class="dropdown-item" href="<?php echo base_url('login/logout') ?>">
                       <i class="dropdown-icon fe fe-log-out"></i> Sign out
                     </a>
                   </div>
@@ -70,15 +73,18 @@
               <div class="col-lg order-lg-first">
                 <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
                   <li class="nav-item">
-                    <a href="./index.html" class="nav-link"><i class="fe fe-home"></i> Home</a>
+                    <a href="<?php echo base_url('site') ?>" class="nav-link <?php echo isset($_SESSION['menu'])=='home'?'active':'';?>"><i class="fe fe-home"></i> Home</a>
                   </li>
                   <li class="nav-item">
                     <a href="javascript:void(0)" class="nav-link" data-toggle="dropdown"><i class="fe fe-box"></i> Barang</a>
                     <div class="dropdown-menu dropdown-menu-arrow">
-                      <a href="./cards.html" class="dropdown-item ">Cards design</a>
-                      <a href="./charts.html" class="dropdown-item ">Charts</a>
-                      <a href="./pricing-cards.html" class="dropdown-item ">Pricing cards</a>
+                      <a href="<?php echo base_url('site/barang') ?>" class="dropdown-item ">Master Barang</a>
+                      <a href="./charts.html" class="dropdown-item ">Pemasukan Barang</a>
+                      <a href="./pricing-cards.html" class="dropdown-item ">Pengeluaran Barang</a>
                     </div>
+                  </li>
+                  <li class="nav-item">
+                    <a href="<?php echo base_url('gudang'); ?>" class="nav-link <?php echo isset($_SESSION['menu'])=='gudang'?'active':'';?>"><i class="fe fe-home"></i> Gudang</a>
                   </li>
                   <li class="nav-item">
                     <a href="<?php echo site_url('analisis');?>" class="nav-link <?php echo isset($_SESSION['menu'])=='analisis'?'active':'';?>"><i class="fe fe-calendar"></i> Analisis</a>
