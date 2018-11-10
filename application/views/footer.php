@@ -11,7 +11,7 @@
                   </ul>
                 </div>
                 <div class="col-auto">
-                  <a href="https://github.com/muhammadjafar/DKatInventory" class="btn btn-outline-primary btn-sm">D Kat Inventory</a>
+                  <a href="https://github.com/muhammadjafar/DKatInventory" target="_blank" class="btn btn-outline-primary btn-sm">D Kat Inventory</a>
                 </div>
               </div>
             </div>
