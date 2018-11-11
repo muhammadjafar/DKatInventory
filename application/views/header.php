@@ -47,28 +47,25 @@
                   </a>
                   <div class="dropdown-menu dropdown-menu-right dropdown-menu-arrow">
                     <a href="#" class="dropdown-item d-flex">
-                      <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/male/41.jpg)"></span>
                       <div>
-                        <strong>Nathan</strong> pushed new commit: Fix page load performance issue.
+                        <strong>Pasta Gigi Pepsodent</strong> 
                         <div class="small text-muted">10 minutes ago</div>
                       </div>
                     </a>
                     <a href="#" class="dropdown-item d-flex">
-                      <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/female/1.jpg)"></span>
                       <div>
-                        <strong>Alice</strong> started new task: Tabler UI design.
+                        <strong>Kecap Bango</strong> 
                         <div class="small text-muted">1 hour ago</div>
                       </div>
                     </a>
                     <a href="#" class="dropdown-item d-flex">
-                      <span class="avatar mr-3 align-self-center" style="background-image: url(demo/faces/female/18.jpg)"></span>
                       <div>
-                        <strong>Rose</strong> deployed new version of NodeJS REST Api V3
+                        <strong>HITMAT FLORAL 18+6 MAT</strong> 
                         <div class="small text-muted">2 hours ago</div>
                       </div>
                     </a>
                     <div class="dropdown-divider"></div>
-                    <a href="#" class="dropdown-item text-center text-muted-dark">Mark all as read</a>
+                    <a href="<?php echo site_url('Site/notif_stok')?>" class="dropdown-item text-center text-muted-dark">Lihat Semua</a>
                   </div>
                 </div>
                 <div class="dropdown">
@@ -101,10 +98,16 @@
               <div class="col-lg order-lg-first">
                 <ul class="nav nav-tabs border-0 flex-column flex-lg-row">
                   <li class="nav-item">
-                    <a href="analisis" class="nav-link <?php echo isset($_SESSION['menu'])&&$_SESSION['menu']=='analisis'?'active':'';?>"><i class="fa fa-chart-line"></i> Analisis</a>
+                    <a href="<?php echo site_url()?>" class="nav-link"><i class="fa fa-home"></i> Beranda</a>
+                  </li>
+				  <li class="nav-item">
+                    <a href="<?php echo site_url('analisis'); ?>" class="nav-link <?php echo isset($_SESSION['menu'])&&$_SESSION['menu']=='analisis'?'active':'';?>"><i class="fa fa-chart-line"></i> Analisis</a>
                   </li>
                   <li class="nav-item">
-                    <a href="<?php echo base_url('gudang'); ?>" class="nav-link <?php echo isset($_SESSION['menu'])&&$_SESSION['menu']=='gudang'?'active':'';?>"><i class="fe fe-home"></i> Rak</a>
+                    <a href="<?php echo site_url('gudang'); ?>" class="nav-link <?php echo isset($_SESSION['menu'])&&$_SESSION['menu']=='gudang'?'active':'';?>"><i class="fe fe-home"></i> Rak</a>
+                  </li>
+				  <li class="nav-item">
+                    <a href="<?php echo site_url('Site/chart'); ?>" class="nav-link"><i class="fe fe-home"></i> Laporan</a>
                   </li>
                 </ul>
               </div>

@@ -12,7 +12,6 @@
 					  <th>Permintaan Stok</th>
 					  <th>Kebutuhan Stok</th>
 					  <th>Lama Permintaan</th>
-					  <th></th>
 					</tr>
 				  </thead>
 				  <tbody>
@@ -22,7 +21,6 @@
 					  <td>600</td>
 					  <td>100</td>
 					  <td>6 hari</td>
-					  <td><a href="<?php echo site_url('Site/detail_permintaan')?>" class="btn btn-primary btn-sm">detail</a></td>
 					</tr>
 					<tr>
 					  <td>Susu Frisian Flag</td>
@@ -30,7 +28,6 @@
 					  <td>700</td>
 					  <td>400</td>
 					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
 					</tr>
 					<tr>
 					  <td>Hitmat Green Tea</td>
@@ -38,7 +35,6 @@
 					  <td>2300</td>
 					  <td>1500</td>
 					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
 					</tr>
 					<tr>
 					  <td>Kecap Bango</td>
@@ -46,7 +42,6 @@
 					  <td>3600</td>
 					  <td>3000</td>
 					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
 					</tr>
 					<tr>
 					  <td>Good Time Cookies</td>
@@ -54,7 +49,6 @@
 					  <td>12000</td>
 					  <td>11000</td>
 					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
 					</tr>
 				  </tbody>
 				</table>

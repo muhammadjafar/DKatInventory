@@ -42,4 +42,10 @@ class Site extends CI_Controller {
 		$this->load->view('detail_permintaan');
 		$this->load->view('footer');
 	}
+	public function chart()
+	{
+		$this->load->view('header');
+		$this->load->view('chart');
+		$this->load->view('footer');
+	}
 }

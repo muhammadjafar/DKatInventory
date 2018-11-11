@@ -11,64 +11,80 @@
 					  <th>Nama Barang</th>
 					  <th>Tanggal Masuk</th>
 					  <th>Stok</th>
-					  <th>Status</th>
-					  <th></th>
+					  <th>status</th>
 					</tr>
 				  </thead>
-				  <?php foreach ($list as $s){?>
 				  <tbody>
 					<tr>
-						<td><?php echo $s->br_nama;?></td>
-						<td><?php echo $s->pm_tgl;?></td>
-						<td><?php echo $s->br_in;?></td>
-						<td><?php echo $s->pm_status;?></td>
-						<td><a href="<?php echo site_url('analisis')?>">konfirm</a></td>
-					</tr>
-					<!--<tr>
-					  <td>Pasta Gigi Pepsodent</td>
-					  <td>500</td>
-					  <td>600</td>
-					  <td>100</td>
-					  <td>6 hari</td>
-					  <td><a href="<?php echo site_url('Site/detail_permintaan')?>" class="btn btn-primary btn-sm">detail</a></td>
+					  <td>MINYAK GANDA PURA 60ML</td>
+					  <td>2018-11-11</td>
+					  <td>60</td>
+					  <td>Sampai</td>
 					</tr>
 					<tr>
-					  <td>Susu Frisian Flag</td>
-					  <td>300</td>
-					  <td>700</td>
-					  <td>400</td>
-					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
+					  <td>GPU KRIM 150GR JAHE</td>
+					  <td>2018-11-11</td>
+					  <td>80</td>
+					  <td>Sampai</td>
 					</tr>
 					<tr>
-					  <td>Hitmat Green Tea</td>
-					  <td>800</td>
-					  <td>2300</td>
-					  <td>1500</td>
-					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
+					  <td>GPU KRIM 150GR PALA</td>
+					  <td>2018-11-11</td>
+					  <td>80</td>
+					  <td>Sampai</td>
 					</tr>
 					<tr>
-					  <td>Kecap Bango</td>
-					  <td>600</td>
-					  <td>3600</td>
-					  <td>3000</td>
-					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
+					  <td>GPU KRIM 60GR PALA</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
 					</tr>
 					<tr>
-					  <td>Good Time Cookies</td>
-					  <td>1000</td>
-					  <td>12000</td>
-					  <td>11000</td>
-					  <td>6 hari</td>
-					  <td><a href="#" class="btn btn-primary btn-sm">detail</a></td>
-					</tr>-->
+					  <td>MINYAK GANDA PURA 30ML</td>
+					  <td>2018-11-11</td>
+					  <td>80</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>ERMOREX PLUS JERUK 30ML</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>SANMOL PARACETAMOL</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>VICKS FORMULA 44 27ML</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>KRIM OTOT GELIGA 30 GR</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>KRIM OTOT GELIGA 60 GR</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
+					<tr>
+					  <td>BALSEM LANG 10 GR</td>
+					  <td>2018-11-11</td>
+					  <td>90</td>
+					  <td>Sampai</td>
+					</tr>
 				  </tbody>
-				  <?php }?>
 				</table>
             </div>
         </div>
 	</div>
-	<hr>	
+	<center><a href="<?php echo site_url('analisis')?>" class="btn btn-primary">Analisis</a></center>
 </div>

@@ -12,8 +12,8 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
-    <link rel="icon" href="<?php echo base_url(); ?>/assets/favicon.ico" type="image/x-icon"/>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>/assets/favicon.ico" />
+    <link rel="icon" href="<?php echo base_url(); ?>/assets/images/logo.png" type="image/x-icon"/>
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo base_url(); ?>/assets/images/logo.png" />
     <!-- Generated: 2018-04-16 09:29:05 +0200 -->
     <title>D Kat Inventory</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -43,9 +43,9 @@
           <div class="row">
             <div class="col col-login mx-auto">
               <div class="text-center mb-6">
-                <img src="<?php echo base_url(); ?>/demo/brand/tabler.svg" class="h-6" alt="">
+                <img src="<?php echo base_url(); ?>/assets/images/logo.png" class="h-8" alt="" >
               </div>
-              <form class="card" action="<?php echo base_url('uri/login_proses') ?>" method="post">
+              <form class="card" action="<?php echo base_url('login/login_proses') ?>" method="post">
                 <div class="card-body p-6">
                   <div class="card-title">Login to D Kat Inventory</div>
                   <div class="form-group">

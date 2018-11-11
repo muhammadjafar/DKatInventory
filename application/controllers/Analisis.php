@@ -11,7 +11,7 @@ class Analisis extends CI_Controller {
 		$_SESSION['menu'] = 'analisis';
 	}
 
-	/*public function index(){
+	public function index(){
 		$data['page_title'] = 'Analisa';
 		$barang = $this->crud->getData('barang','','','',80);
 		$brg = array();
@@ -22,12 +22,12 @@ class Analisis extends CI_Controller {
 		$this->load->view('header', $data);
 		$this->load->view('apriori');
 		$this->load->view('footer');
-	}*/
-	public function index(){
+	}
+	/*public function index(){
 		$this->load->view('header');
 		$this->load->view('rekomen');
 		$this->load->view('footer');
-	}
+	}*/
 	public function apriori(){
 
 	}
