@@ -17,7 +17,7 @@
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;A1</p>ANTANGIN MINT 15ML<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;A3</p>TOLAK LINU 15ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;A3</p>KANNA KRIM 15GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;A3</p>KANNA KRIM 15GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;A4</p>MINYAK ANGIN CAP KAPAK 38ML<br><p class="text-right text-blue">200</p></td>
@@ -51,7 +51,7 @@
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;D4</p>KAPUR AJAIB MERAH JUMBO 7GR<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%"  class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;D5</p>MINYAK URUT GPU 30ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"  class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;D5</p>MINYAK URUT GPU 30ML<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;D6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
@@ -86,8 +86,8 @@
                     </tr>
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;G7</p>MAMO HERBAL 10 ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">15 hari</span> &nbsp;&nbsp;&nbsp;G8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue text-light">200</p></td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;G9</p>TELON LANG TRIPLE ACTION 60 ML<br><p class="text-right text-blue text-light">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">15 hari</span> &nbsp;&nbsp;&nbsp;G8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue text-light">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;G9</p>TELON LANG TRIPLE ACTION 60 ML<br><p class="text-right text-blue text-light">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -149,7 +149,7 @@
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">7 hari</span> &nbsp;&nbsp;&nbsp;E7</p>SHAMPO CLEAR BLACK 170ML<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;E8</p>SHAMPO CLEAR SUPERFRESH APPLE 170ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;E9</p>BALSEM OTOT GELIGA 20GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;E9</p>BALSEM OTOT GELIGA 20GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -169,7 +169,7 @@
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;H1</p>SHAMPO CLEAR COMPLETE SOFT CARE 170ML<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H3</p>SHAMPO REJOICE PARFUM LEMBUT 170ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H3</p>SHAMPO BTL REJOICE PARFUM SEGAR 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H3</p>SHAMPO BTL REJOICE PARFUM SEGAR 170ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H4</p>EMERON BTL DAMAGE CARE AVOCADO 340ML<br><p class="text-right text-blue">200</p></td>
@@ -205,7 +205,7 @@
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C5</p>BIORE MENS OIL BUSTER 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C5</p>BIORE MENS OIL BUSTER 100GR<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C6</p>GIV WHITE BENGKOANG PURE WHITE REFILL 65ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
@@ -231,7 +231,7 @@
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F1</p>LIPSTICK RED-A 609 3GR<br><p class="text-right text-blue">200</p></td>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;F3</p>CITRA GREENTEA ANTI ACNE 100GR<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F3</p>LERVIA SABUN SUSU ONLY MILO 90GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow" data-toggle="tooltip" data-placement="right" title="barang dengan rekomendasi tempat yang tidak pas"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F3</p>LERVIA SABUN SUSU ONLY MILO 90GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;F4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br><p class="text-right text-blue">200</p></td>
@@ -265,8 +265,8 @@
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I4</p>SUNLIGHT REFILL JERUK NIPIS 100 85ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">26 hari</span> &nbsp;&nbsp;&nbsp;I6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">26 hari</span> &nbsp;&nbsp;&nbsp;I6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I7</p>VANIS CAIR REFILL 150ML<br><p class="text-right text-blue">200</p></td>
