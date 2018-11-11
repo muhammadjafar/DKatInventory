@@ -8,6 +8,7 @@ class Site extends CI_Controller {
 		$this->load->database();
 		$this->load->library('session');
 		$this->load->model('M_inventory');
+		$this->load->model('mdata');
 		$this->load->helper('url');
 		/*if (isset($_SESSION['us_sess']) == 0) {
 			redirect('login');
@@ -17,8 +18,9 @@ class Site extends CI_Controller {
 
 	public function index()
 	{
+		$data['list'] = $this->mdata->cek_list()->result();
 		$this->load->view('header');
-		$this->load->view('Home');
+		$this->load->view('beranda', $data);
 		$this->load->view('footer');
 	}
 	public function barang()
