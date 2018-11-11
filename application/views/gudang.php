@@ -15,19 +15,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A1</p>ANTANGIN MINT 15ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A3</p>TOLAK LINU 15ML<br>100</td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">A3</p>KANNA KRIM 15GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;A1</p>ANTANGIN MINT 15ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;A3</p>TOLAK LINU 15ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;A3</p>KANNA KRIM 15GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A4</p>MINYAK ANGIN CAP KAPAK 38ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A5</p>PI KANG SHUANG 10GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A6</p>COMBANTRIN RASA JERUK 10ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;A4</p>MINYAK ANGIN CAP KAPAK 38ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;A5</p>PI KANG SHUANG 10GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;A6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A7</p>BALSEM AKTIV 20GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A8</p>KRIM OTOT GELIGA 60 GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">A9</p>BALSEM OTOT GELIGA 20GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;A7</p>BALSEM AKTIV 20GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;A8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;A9</p>BALSEM OTOT GELIGA 20GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -45,19 +45,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D1</p>HITMAT GREEN TEA 18+6 MAT<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D3</p>TOLAK LINU 15ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D3</p>SEMIR KIWI BROWN 30GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;D1</p>HITMAT GREEN TEA 18+6 MAT<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;D3</p>TOLAK LINU 15ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;D3</p>SEMIR KIWI BROWN 30GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D4</p>KAPUR AJAIB MERAH JUMBO 7GR<br>200</td>
-                      <td width="33%"  class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">D5</p>MINYAK URUT GPU 30ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D6</p>COMBANTRIN RASA JERUK 10ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;D4</p>KAPUR AJAIB MERAH JUMBO 7GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"  class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;D5</p>MINYAK URUT GPU 30ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;D6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D7</p>GPU KRIM 150GR ORANGE<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D8</p>KRIM OTOT GELIGA 60 GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">D9</p>ANTANGIN JRG 15ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;D7</p>GPU KRIM 150GR ORANGE<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;D8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;D9</p>ANTANGIN JRG 15ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -75,19 +75,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G1</p>ANTANGIN MINT 15ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G3</p>TERMOREX PLUS JERUK 30ML<br>100</td>
-                      <td width="33%""><p class="text-right text-blue" style="font-size: 10px;">G3</p>MINYAK GOSOK CAP TAWON 30ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;G1</p>ANTANGIN MINT 15ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;G3</p>TERMOREX PLUS JERUK 30ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%""><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;G3</p>MINYAK GOSOK CAP TAWON 30ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G4</p>MINYAK KAYU PUTIH 60 ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G5</p>MINYAK EKALIPTUS ORIGINAL 60ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G6</p>COMBANTRIN RASA JERUK 10ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">6 hari</span> &nbsp;&nbsp;&nbsp;G4</p>MINYAK KAYU PUTIH 60 ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;G5</p>MINYAK EKALIPTUS ORIGINAL 60ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;G6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">G7</p>MAMO HERBAL 10 ML<br>200</td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 10px;">G8</p>KRIM OTOT GELIGA 60 GR<br>100</td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 10px;">G9</p>TELON LANG TRIPLE ACTION 60 ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;G7</p>MAMO HERBAL 10 ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">15 hari</span> &nbsp;&nbsp;&nbsp;G8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue text-light">200</p></td>
+                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;G9</p>TELON LANG TRIPLE ACTION 60 ML<br><p class="text-right text-blue text-light">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -107,19 +107,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B1</p>PLUS TELON LANG 10 JAM 150 ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B3</p>CUSSONS BABY HAIR LOTIONS<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B3</p>CUSSONS HAIR & BODY COLOGNE FRUITY<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;B1</p>PLUS TELON LANG 10 JAM 150 ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;B3</p>CUSSONS BABY HAIR LOTIONS<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;B3</p>CUSSONS HAIR & BODY COLOGNE FRUITY<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B4</p>ZWITSAL NATURAL BABY SHAMPO 100ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B5</p>KODOMO BABY POWDER 50GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B6</p>JOHNSONS BABY POWDER 50G<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;B4</p>ZWITSAL NATURAL BABY SHAMPO 100ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;B5</p>KODOMO BABY POWDER 50GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;B6</p>JOHNSONS BABY POWDER 50G<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B7</p>MITU BABY POWDER 200GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B8</p>CUSSONS BABY POWDER MILD & GENTLE 350GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">B9</p>KODOMO BABY CALMING POWDER 300GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;B7</p>MITU BABY POWDER 200GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;B8</p>CUSSONS BABY POWDER MILD & GENTLE 350GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;B9</p>KODOMO BABY CALMING POWDER 300GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -137,19 +137,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E1</p>SHAMPO ZINC HAIR FALL TREATMENT 170ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E3</p>TOLAK LINU 15ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E3</p>SHAMPO LIFEBUOY ANTI HAIRFALL 170ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;E1</p>SHAMPO ZINC HAIR FALL TREATMENT 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;E3</p>TOLAK LINU 15ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;E3</p>SHAMPO LIFEBUOY ANTI HAIRFALL 170ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E4</p>SHAMPO HEAD & SHOULDERS CLEAN & BALANCED 170ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E5</p>SHAMPO SUNSILK DAMAGED HAIR 170ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E6</p>SHAMPO CLEAR ANTI HAIRFALL 170ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;E4</p>SHAMPO HEAD & SHOULDERS CLEAN & BALANCED 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;E5</p>SHAMPO SUNSILK DAMAGED HAIR 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;E6</p>SHAMPO CLEAR ANTI HAIRFALL 170ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E7</p>SHAMPO CLEAR BLACK 170ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">E8</p>SHAMPO CLEAR SUPERFRESH APPLE 170ML<br>100</td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">E9</p>BALSEM OTOT GELIGA 20GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">7 hari</span> &nbsp;&nbsp;&nbsp;E7</p>SHAMPO CLEAR BLACK 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;E8</p>SHAMPO CLEAR SUPERFRESH APPLE 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;E9</p>BALSEM OTOT GELIGA 20GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -167,19 +167,19 @@
                    <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H1</p>SHAMPO CLEAR COMPLETE SOFT CARE 170ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H3</p>SHAMPO REJOICE PARFUM LEMBUT 170ML<br>100</td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">H3</p>SHAMPO BTL REJOICE PARFUM SEGAR 170ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;H1</p>SHAMPO CLEAR COMPLETE SOFT CARE 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H3</p>SHAMPO REJOICE PARFUM LEMBUT 170ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H3</p>SHAMPO BTL REJOICE PARFUM SEGAR 170ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H4</p>EMERON BTL DAMAGE CARE AVOCADO 340ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H5</p>FACIAL FOAM ARMELLE GLOWING 75GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H6</p>WARDAH LIGHTENING FACIAL SCRUB 60ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H4</p>EMERON BTL DAMAGE CARE AVOCADO 340ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;H5</p>FACIAL FOAM ARMELLE GLOWING 75GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;H6</p>WARDAH LIGHTENING FACIAL SCRUB 60ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H7</p>GARNIER PURE ACTIVE FOAM 50ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H8</p>PONDS CLEAR SOLUTION 50GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">H9</p>CITRA GREENTEA ANTI ACNE 80GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H7</p>GARNIER PURE ACTIVE FOAM 50ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">3 hari</span> &nbsp;&nbsp;&nbsp;H8</p>PONDS CLEAR SOLUTION 50GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;H9</p>CITRA GREENTEA ANTI ACNE 80GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -199,19 +199,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C1</p>PONDS PUREWHITE 100GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C3</p>CITRA GREENTEA ANTI ACNE 100GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C3</p>GARNIER PURE ACTIVE FRUIT ENERGY 100ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C1</p>PONDS PUREWHITE 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C3</p>CITRA GREENTEA ANTI ACNE 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C3</p>GARNIER PURE ACTIVE FRUIT ENERGY 100ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br>200</td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">C5</p>BIORE MENS OIL BUSTER 100GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C6</p>GIV WHITE BENGKOANG PURE WHITE REFILL 65ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C5</p>BIORE MENS OIL BUSTER 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C6</p>GIV WHITE BENGKOANG PURE WHITE REFILL 65ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C7</p>LUX MAGICAL SPELL REFILL 60ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C8</p>KECAP MANIS BANGO REFILL 220ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">C9</p>THE ASLI SARIWANGI 7,4 GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C7</p>LUX MAGICAL SPELL REFILL 60ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;C8</p>KECAP MANIS BANGO REFILL 220ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;C9</p>THE ASLI SARIWANGI 7,4 GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -229,19 +229,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F1</p>LIPSTICK RED-A 609 3GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F3</p>CITRA GREENTEA ANTI ACNE 100GR<br>100</td>
-                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 10px;">F3</p>LERVIA SABUN SUSU ONLY MILO 90GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F1</p>LIPSTICK RED-A 609 3GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;F3</p>CITRA GREENTEA ANTI ACNE 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-yellow"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F3</p>LERVIA SABUN SUSU ONLY MILO 90GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F5</p>SABUN JF ANTI ACNE 90GR<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F6</p>GIV WHITE BENGKOANG PURE WHITE REFILL 65ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;F4</p>PURBASARI LULUR WAJAH CUCUMBER 100GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;F5</p>SABUN JF ANTI ACNE 90GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;F6</p>GIV WHITE BENGKOANG PURE WHITE REFILL 65ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F7</p>SABUN HARMONY ORANGE 70GR<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F8</p>KECAP MANIS BANGO REFILL 220ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">F9</p>SO KLIN LANTAI REFILL ROSE BOUQUET 80 ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;F7</p>SABUN HARMONY ORANGE 70GR<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">4 hari</span> &nbsp;&nbsp;&nbsp;F8</p>KECAP MANIS BANGO REFILL 220ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">5 hari</span> &nbsp;&nbsp;&nbsp;F9</p>SO KLIN LANTAI REFILL ROSE BOUQUET 80 ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -259,19 +259,19 @@
                     <table class="table card-table table-bordered" >
                       <tbody>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I1</p>SO KLIN LANTAI REFILL CITRUS LEMON 80 ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I3</p>MAMA LEMON REFILL JERUK NIPIS 62ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I3</p>KANNA KRIM 15GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;I1</p>SO KLIN LANTAI REFILL CITRUS LEMON 80 ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;I3</p>MAMA LEMON REFILL JERUK NIPIS 62ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">2 hari</span> &nbsp;&nbsp;&nbsp;I3</p>KANNA KRIM 15GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                    <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I4</p>SUNLIGHT REFILL JERUK NIPIS 100 85ML<br>200</td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 10px;">I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br>100</td>
-                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 10px;">I6</p>COMBANTRIN RASA JERUK 10ML<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I4</p>SUNLIGHT REFILL JERUK NIPIS 100 85ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">26 hari</span> &nbsp;&nbsp;&nbsp;I6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     <tr>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I7</p>VANIS CAIR REFILL 150ML<br>200</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I8</p>EMERON VOLUME CONTROL POMEGRANATE 340ML<br>100</td>
-                      <td width="33%"><p class="text-right text-blue" style="font-size: 10px;">I9</p>BALSEM OTOT GELIGA 20GR<br>300</td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I7</p>VANIS CAIR REFILL 150ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">7 hari</span> &nbsp;&nbsp;&nbsp;I8</p>EMERON VOLUME CONTROL POMEGRANATE 340ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">9 hari</span> &nbsp;&nbsp;&nbsp;I9</p>BALSEM OTOT GELIGA 20GR<br><p class="text-right text-blue">200</p></td>
                     </tr>
                     </tbody>
                   </table>
