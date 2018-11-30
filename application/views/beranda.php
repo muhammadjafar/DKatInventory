@@ -1,7 +1,6 @@
 <div class="my-3 my-md-5">
 	<div class="container">
-	<br>
-	<h3>Cek List</h3>
+	<h3>Kedatangan barang</h3>
 		<div class="card">
 		  <div class="card-body ">
 			<div class="table-responsive">

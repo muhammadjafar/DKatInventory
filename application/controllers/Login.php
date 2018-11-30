@@ -32,14 +32,12 @@ class Login extends CI_Controller {
 				$this->session->set_flashdata("pesan", " <div class='alert alert-icon alert-danger' role='alert'>
             <i class='fe fe-alert-triangle mr-2' aria-hidden='true'></i> Cek Kembali Username dan Passwordmu !!!
           </div>");
-				redirect(base_url('site/login'));
+				redirect('login');
 			}
 	}
 	public function logout(){
-			if($this->session->has_userdata('us_sess')){
-				$this->session->sess_destroy();
-				redirect('login');
-			}
-		}
+		$this->session->sess_destroy();
+		redirect('login');
+	}
 
 }

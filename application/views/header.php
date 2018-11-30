@@ -37,7 +37,7 @@
             <div class="d-flex">
               <a class="header-brand" href="./index.html">
                 <img src="<?php echo base_url(); ?>/assets/images/logo.png" class="header-brand-img" alt="tabler logo">
-                D Kat Kategori
+                D Kat Inventory
               </a>
               <div class="d-flex order-lg-2 ml-auto">
                 <div class="dropdown d-none d-md-flex">

@@ -86,8 +86,8 @@
                     </tr>
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">1 hari</span> &nbsp;&nbsp;&nbsp;G7</p>MAMO HERBAL 10 ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">15 hari</span> &nbsp;&nbsp;&nbsp;G8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-blue text-light">200</p></td>
-                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;G9</p>TELON LANG TRIPLE ACTION 60 ML<br><p class="text-right text-blue text-light">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">15 hari</span> &nbsp;&nbsp;&nbsp;G8</p>KRIM OTOT GELIGA 60 GR<br><p class="text-right text-white text-light">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;G9</p>TELON LANG TRIPLE ACTION 60 ML<br><p class="text-right text-white text-light">200</p></td>
                     </tr>
                     </tbody>
                   </table>
@@ -265,8 +265,8 @@
                     </tr>
                    <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I4</p>SUNLIGHT REFILL JERUK NIPIS 100 85ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br><p class="text-right text-blue">200</p></td>
-                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">26 hari</span> &nbsp;&nbsp;&nbsp;I6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-blue">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">20 hari</span> &nbsp;&nbsp;&nbsp;I5</p>SUPER PEL REFILL FRESH APPLE 111ML<br><p class="text-right text-white">200</p></td>
+                      <td width="33%" class="bg-red text-light" data-toggle="tooltip" data-placement="right" title="barang dengan limit stok"><p class="text-right text-light" style="font-size: 13px;"><span class="badge badge-info">26 hari</span> &nbsp;&nbsp;&nbsp;I6</p>COMBANTRIN RASA JERUK 10ML<br><p class="text-right text-white">200</p></td>
                     </tr>
                     <tr>
                       <td width="33%"><p class="text-right text-blue" style="font-size: 13px;"><span class="badge badge-info">8 hari</span> &nbsp;&nbsp;&nbsp;I7</p>VANIS CAIR REFILL 150ML<br><p class="text-right text-blue">200</p></td>
